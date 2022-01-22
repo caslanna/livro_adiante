@@ -1,19 +1,3 @@
 /* You can add global styles to this file, and also import other style files */
-$azul: #4292bf;
-$azulClaro:#8dbeda;
 
-.background {
-    &-azul {
-        background-color:$azul;
-    }
-    &-azul1{
-        background-color:$azulClaro;
-    }
-    &-verde{
-        background-color: aquamarine;
-    }
-    &-gradiente{
-        background-image: linear-gradient(to bottom right,$azul,$azulClaro);
-    }
-}
-
+   
